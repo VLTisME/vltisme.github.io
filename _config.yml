@@ -9,41 +9,36 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Saigon
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Turtle
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Life is beautiful, isn't it?... # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  My blog, where I yap about my life, my thoughts, my experiences, and my feelings.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: 'https://vltisme.github.io'
 
 github:
-  username: github_username # change to your GitHub username
+  username: VLTisME # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+#  username: twitter_username # change to your Twitter username
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Vo Lan Tuan
+  email: volantuan0908@gmail.com
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
-
+    - https://x.com/tis_vl
+    - https://github.com/VLTisME
+    - https://www.facebook.com/vltisme
+    - https://www.linkedin.com/in/vltisme986
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
@@ -61,7 +56,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: whatisthecode
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -75,7 +70,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter
 
 # Prefer color scheme setting.
 #
@@ -98,11 +93,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://i.ibb.co/Y4B6y2SY/my-avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: 'VLT' # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
