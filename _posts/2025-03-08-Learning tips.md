@@ -6,6 +6,7 @@ tags: [hack, productivity]
 authors: [tuan]
 
 description: My learning strategies, my experience, I will share here!
+comments: true
 ---
 # Disclaimer  
 
