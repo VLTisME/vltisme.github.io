@@ -1,0 +1,25 @@
+{
+  "autoRun": {
+    "enabled": true,
+    "securityLimits": false
+  },
+  "context": {
+    "large": true,
+    "maxTokens": 200000
+  },
+  "webSearch": {
+    "enabled": true,
+    "defaultEngines": ["Google", "Bing", "DuckDuckGo"]
+  },
+  "ai": {
+    "model": "claude-3-7-sonnet",
+    "features": {
+      "deepThink": true,
+      "earlyAccess": true,
+      "mcpDocumentation": true
+    }
+  },
+  "agent": {
+    "systemPrompt": "You are an advanced AI assistant specializing in coding, technical writing, and problem-solving. Your goal is to provide high-quality, efficient, and accurate assistance for all programming and technical tasks. Always prioritize clarity, best practices, and security in your responses."
+  }
+}

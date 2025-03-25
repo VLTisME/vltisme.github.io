@@ -1,0 +1,30 @@
+# Cursor rules configuration
+
+# General coding standards
+standard:
+  indent: 2
+  max_line_length: 100
+  trailing_whitespace: error
+  final_newline: true
+
+# Language specific rules
+languages:
+  javascript:
+    quotes: single
+    semicolons: always
+    prefer_const: true
+
+  css:
+    quotes: double
+    color_hex_style: lowercase
+
+  markdown:
+    line_length: 80
+
+# File organization rules
+files:
+  naming_convention: kebab-case
+
+# Performance rules
+performance:
+  bundle_size_limit: 500kb
