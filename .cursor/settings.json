@@ -1,7 +1,7 @@
 {
   "autoRun": {
-    "enabled": true,
-    "securityLimits": false
+    "enabled": false,
+    "securityLimits": true
   },
   "context": {
     "large": true,
