@@ -76,3 +76,5 @@ Here's my recommended setup process:
    - Initialize git repository
 
 > ⚠️ **Important**: This configuration allows Cursor to execute code with your system permissions. Make sure you understand the security implications.
+
+Fun fact: Part of this post was created by Cursor, and the whole Git & Github post was created by Cursor :).
