@@ -23,3 +23,7 @@ Let me break it down – he didn’t actually want to study back then. However, 
 
 ## The encounter
 - Today, he met a person he would never think that would appear there.
+
+
+## 
+- Nếu mình muốn kiếm tiền, hãy làm công việc giỏi nhất, còn đam mê, hãy cứ giữ nó!.

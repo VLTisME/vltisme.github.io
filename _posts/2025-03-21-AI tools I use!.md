@@ -77,4 +77,9 @@ Here's my recommended setup process:
 
 > ⚠️ **Important**: This configuration allows Cursor to execute code with your system permissions. Make sure you understand the security implications.
 
+**Trick for fast setup**: You can't directly tell Cursor to adapt these setting above because Cursor isn't allowed to modify the setting, so instead, tell it to create a json file for cursor setting and tell it to edit the setting inside that file :D
+
 Fun fact: Part of this post was created by Cursor, and the whole Git & Github post was created by Cursor :).
+
+
+## Grok, ChatGPT,...

@@ -20,7 +20,8 @@ __I don’t consider myself a successful person, and I won’t guarantee that th
 This means:  
 - Sleep enough.  
 - Have a strong body, no injuries or illnesses.  
-- No stress. Keep your mind at ease and free from anything weighing on your heart.  
+- No stress. Keep your mind at ease and free from anything weighing on your heart. 
+- Must forgive yourself. Choi het minh, hoc het minh. 
 
 ---  
 

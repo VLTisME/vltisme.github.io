@@ -75,3 +75,5 @@ Tương tự cho coding phase: hiểu workflow của code trước đã, rồi x
 
 Continue Mask-RCNN paper reading (remember: from abstract, overview to deepdive into each part then back to the big picture) → Coding phase (remember: understand the workflow first then understand each file later). Ôn kĩ lại intuition từng li từng tí Mask RCNN (như là ý nghĩa của RPN, RoIAlign, Backbone architecture,…) và các thao tác khác trong boxchat intuition & life với sider. Viết blog về Mask-RCNN thật kĩ càng và dễ hiểu theo kiểu Intuition & học kiểu mới của mình để cho nhóm AIC của mình đọc. Có thể đọc nhanh DETR
 
+“You must be the one with the model to understand the power of it. Once fully understand it, it is like understanding yourself” - “To create a new model, think like yourself is the current models, all the techniques you know, and specify the problem, what do you have to solve it, what do you lack of, what is not good enough, what if we get rid of this, add something new, change it to something we have never seen…”?. 
+
